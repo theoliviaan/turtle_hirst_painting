@@ -1,2 +1,2 @@
 # turtle_hirst_painting
-Created a Hirst Pinting using the python turtle module
+Created a Hirst Painting using the python turtle module
